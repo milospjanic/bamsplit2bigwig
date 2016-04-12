@@ -1,4 +1,3 @@
-
 #! /bin/bash
 
 #create bed from bam, requires bedtools bamToBed
