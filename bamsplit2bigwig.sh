@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 #create bed from bam, requires bedtools bamToBed
 bamToBed -i $1 -split > accepted_hits.bed
